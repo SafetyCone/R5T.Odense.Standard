@@ -1,0 +1,2 @@
+# R5T.Odense.Standard
+The standard IVisualStudioSolutionFileProjectTypeGuidProvider implementation aggregation library for the Odense project.
